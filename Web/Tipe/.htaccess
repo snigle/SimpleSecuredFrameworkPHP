@@ -1,0 +1,7 @@
+RewriteEngine On
+
+#Si c'est in fichier existant alors on l'affiche
+RewriteCond %{REQUEST_FILENAME} !-f
+#Sinon on va sur l'index
+RewriteRule ^.+$ index.php [QSA,L] 
+

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<conf>
+    <pdo dao="(dao)" host="(host)" db="(db)" user="(user)" password="(password)" />
+    <root login="(user2)" rank="root"  password="(password2)" />
+</conf>
+

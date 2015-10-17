@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<conf>
+    <pdo dao="mysql" host="localhost" db="tipe" user="root" password="azerty" />
+    <root login="metaismaxi" rank="root"  password="09b8b5b563913d40a9a28d04f076f811" />
+</conf>
+

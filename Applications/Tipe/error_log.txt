@@ -1,0 +1,3 @@
+************************Log D'erreurs****************************
+
+[07/06/13][15:09:54]Erreur n°2: Division by zero; Ligne 26; Fichier E:\UwAmp\www\tipe\Applications\Tipe\Modules\Division\DivisionController.class.php; Repetition 

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<conf>
+    <route url="/" module="connexion" action="formulaire" method="get" />
+    <route url="/connexion.htm" module="connexion" action="formulaire" method="get" />
+    <route url="/connexion.htm" module="connexion" action="connexion" method="post" />
+    <route url="/division.htm" module="division" action="formulaire" method="get" />
+    <route url="/division.htm" module="division" action="division" method="post" />
+    <route url="/deconnexion.htm" module="connexion" action="deconnexion" method="get" />
+    <route url="/messages.htm" module="messages" action="afficherMessage" method="get" />
+    <route url="/messages.htm" module="messages" action="saveMessage" method="post" />
+    <route url="/supprimer-([0-9]+).htm" module="messages" action="supprimerMessage" method="get" vars="id"/>
+    <route url="/admin/inscription.htm" module="inscription" action="form" method="get" />
+    <route url="/admin/inscription.htm" module="inscription" action="send" method="post" />
+    <route url="/admin/supprimer-([0-9]+).htm" module="inscription" action="supprimer" method="get" vars="id"/>
+</conf>
+

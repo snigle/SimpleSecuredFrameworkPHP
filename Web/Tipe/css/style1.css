@@ -1,0 +1,38 @@
+/* LAMARCHE LUDOVIC
+14 Decembre 2012 */
+
+/****Dimensions de la page**********/
+body
+{
+	width:1000px;
+	margin:auto;
+	background-color:#002853;
+	
+}
+
+/*Style Général ***************/
+
+
+table, table th, table td
+{
+	border: gray 1px solid;
+}
+body
+{
+	font-family:sans-serif;
+}
+body a
+{
+	text-decoration:none;
+	color:#0076bf;
+}
+body img
+{
+	border:none;
+}
+body a:hover
+{
+	color:gray;
+}
+
+

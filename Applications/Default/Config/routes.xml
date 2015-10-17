@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<conf>
+    <route url="/" module="connexion" action="formulaire" method="get" />
+     <route url="/connexion.htm" module="connexion" action="formulaire" method="get" />
+    <route url="/connexion.htm" module="connexion" action="connexion" method="post" />
+</conf>
+

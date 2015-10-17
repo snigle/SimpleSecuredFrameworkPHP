@@ -1,0 +1,9 @@
+<?php
+
+require '../../Applications/Library/autoload.php';
+
+$class= new \Test\Test();
+
+$class->run();
+
+
