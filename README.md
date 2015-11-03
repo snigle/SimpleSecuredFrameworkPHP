@@ -1,8 +1,10 @@
-Annexe - Documentation du projet
+Documentation du projet
 ================================
 
 Introduction
 ------------
+
+Ce projet a été effectué dans le cadre d'un TIPE en prépa intégré à l'EISTI. Un exemple d'application "TIPE" est disponible pour démontrer les fonctionnalités du framework.
 
 ### Fonctionnalités
 
